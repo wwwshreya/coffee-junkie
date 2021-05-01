@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>about</title>
+</head>
+<body>
+    <img id="top" src="./images/logo.png" alt="logo">
+    <h3>Coffee Junkie</h3>
+    <ul>
+        <li><a href="./home.html">Home</a></li>
+        <li><a href="./about.html">About</a></li>
+        <li><a href="./numbers.html">Numbers</a></li>
+        <li><a href="./contact.html">Contact</a></li>
+    </ul>
+    <img src="./images/coffee beans.jpg" alt="" width="100%">
+    <br>
+    <h2>About Us</h2>
+    <br>
+    <p style="width: 50%;" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Error pariatur quos nam velit voluptatibus quis ab similique minima qui magni neque impedit ut ea ratione nostrum, quasi eos repellendus incidunt mollitia accusamus cum. Et ex, voluptatibus ipsum modi eum quam exercitationem nihil provident dolor quisquam, excepturi illo sint eveniet sunt voluptatem consectetur, suscipit repudiandae. Ducimus facilis in est fugit quis error ullam et illo rem laboriosam! Optio voluptatum dignissimos labore eligendi eum dolorem cumque, quam eius quidem magnam repudiandae mollitia dicta adipisci aspernatur quis et libero culpa dolorum nulla eos laudantium architecto. Earum impedit maxime deserunt rem aperiam recusandae, dolorem hic delectus nihil itaque incidunt ea excepturi dolore voluptas quaerat, accusamus aspernatur quod voluptatem fugit necessitatibus reprehenderit voluptate maiores. Laborum placeat, facilis harum nihil repellat architecto et corporis fugit excepturi. Illo eaque beatae, obcaecati vitae iusto, facere dicta ducimus, ut rem id quibusdam quidem cum! A ipsam dignissimos animi cupiditate.</p>
+    <br><br><br><br><br><br><br>
+    <h6>copyright &copy; 2021</h6>
+    <br>
+    <a href="#top">Back to top</a>
+</body>
+</html>
